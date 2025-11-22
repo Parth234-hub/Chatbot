@@ -1,3 +1,5 @@
+# Mini Project of Chatbot in AI
+# Implementation of New Ideas
 print("Chatbot: Hello! How can I assist you today?")
 
 while True:
